@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     # Eliminamos el objeto
     del persona1
-    print("Fin del programa..")
+    print("Fin del programa.")
